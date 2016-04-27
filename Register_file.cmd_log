@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/Register_file.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/Register_file.syr" 
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/Register_file.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/Register_file.syr" 

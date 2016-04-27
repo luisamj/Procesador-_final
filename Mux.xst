@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/xst"
+elaborate
+-ifn Mux.prj
+-ifmt mixed
