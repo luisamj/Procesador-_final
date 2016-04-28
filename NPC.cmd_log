@@ -8,3 +8,25 @@ map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map
 ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "NPC.ngc" NPC.ngd  
 map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
 vhdtdtfi -prj ProcesadorMonociclo -o "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.vhi" -module NPC -template C:/Arq/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work NPC.vhd 
+vhdtdtfi -prj ProcesadorMonociclo -o "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.vhi" -module NPC -template C:/Arq/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work NPC.vhd 
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "NPC.ngc" NPC.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "NPC.ngc" NPC.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "NPC.ngc" NPC.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "NPC.ngc" NPC.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "NPC.ngc" NPC.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/NPC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "NPC.ngc" NPC.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o NPC_map.ncd NPC.ngd NPC.pcf 

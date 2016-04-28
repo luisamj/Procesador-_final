@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/UnidadControl.xst" -ofn "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/UnidadControl.syr" 
+netgen -intstyle ise -ar Structure -tm UnidadControl -w -dir netgen/synthesis -ofmt vhdl -sim UnidadControl.ngc UnidadControl_synthesis.vhd 
+vhdtdtfi -prj ProcesadorMonociclo -o "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/UnidadControl.vhi" -module UnidadControl -template C:/Arq/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work UnidadControl.vhd 

@@ -10,7 +10,7 @@ Total CPU time to Xst completion: 0.35 secs
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.35 secs
+Total CPU time to Xst completion: 0.36 secs
  
 --> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
 
@@ -18,15 +18,16 @@ Total CPU time to Xst completion: 0.35 secs
 *                          HDL Compilation                              *
 =========================================================================
 Compiling vhdl file "C:/Users/LuisaM/Documents/Universidad/Arq computadores/ProcesadorMonociclo/Register_file.vhd" in Library work.
-Architecture arq_rf of Entity register_file is up to date.
+Entity <register_file> compiled.
+Entity <Register_file> (Architecture <Arqui_RF>) compiled.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.46 secs
+Total CPU time to Xst completion: 0.48 secs
  
 --> 
 
-Total memory usage is 261500 kilobytes
+Total memory usage is 260732 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    1 (   0 filtered)

@@ -1,5 +1,5 @@
 
--- VHDL Instantiation Created from source file NPC.vhd -- 19:12:57 04/21/2016
+-- VHDL Instantiation Created from source file NPC.vhd -- 17:51:50 04/27/2016
 --
 -- Notes: 
 -- 1) This instantiation template has been automatically generated using types

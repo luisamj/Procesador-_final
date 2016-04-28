@@ -41,7 +41,7 @@ entity Register_file is
            CRS2 : out  STD_LOGIC_VECTOR (31 downto 0));
 end Register_file;
 
-architecture Arq_RF of Register_file is
+architecture Arqui_RF of Register_file is
 
 	type ram_type is array (0 to 39) of std_logic_vector (31 downto 0);
 	signal registers : ram_type :=(others => x"00000000");
@@ -62,4 +62,4 @@ begin
 				end if;
 			end if;
 		end process;
-end Arq_RF;
+end Arqui_RF;

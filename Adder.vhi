@@ -1,5 +1,5 @@
 
--- VHDL Instantiation Created from source file Adder.vhd -- 21:29:58 04/26/2016
+-- VHDL Instantiation Created from source file Adder.vhd -- 17:33:20 04/27/2016
 --
 -- Notes: 
 -- 1) This instantiation template has been automatically generated using types
